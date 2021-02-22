@@ -1,3 +1,7 @@
+v1.14.1 (2021-02-xx)
+- Fix add-on install error on fresh install
+- Update translations
+
 v1.14.0 (2021-02-21)
 - Converted settings xml to the new Kodi settings format type
 - Debug logging setting is now an on/off switch
